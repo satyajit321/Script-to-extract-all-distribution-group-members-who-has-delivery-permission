@@ -1,0 +1,3 @@
+#TYPE Selected.Microsoft.Exchange.Data.Directory.Management.DistributionGroup,
+Name,AcceptMessagesOnlyFromSendersOrMembers
+TestGroupSatya,SatyaTEST1;Satyajit;TestGroupSatya2;TestGroupSatya
